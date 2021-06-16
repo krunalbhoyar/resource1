@@ -7,5 +7,6 @@ phases:
       - ls -la
       - cd ..
       - ls -la
-      - cd Resource2
+      - cd resource2
+      - pwd
       - ls -la
