@@ -3,6 +3,9 @@ version: 0.2
 phases:
   build:
     commands:
+      - pwd
       - ls -la
       - cd ..
+      - ls -la
+      - cd Resource2
       - ls -la
